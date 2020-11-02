@@ -75,3 +75,7 @@ while True:
     #     except Exception as e:
     #         print(e)
     #         speak("sorry my bro i m unable1")
+    
+
+
+    # //hello everyone
